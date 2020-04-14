@@ -25,11 +25,11 @@
 A aplicação conciste em um sistema de transportadora fictícia chamada FastFeet. Ela é uma aplicação completa envolvendo back-end, front-end e mobile, e que faz parte do desafio de certificação do bootcamp Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
 
 
-## Docker
+## :whale: Docker
 
 Para instalação do Docker é necessário acesssar a [documentação](https://docs.docker.com/install/linux/docker-ce/ubuntu/), nesse caso seguindo o padrão ubuntu. Basta seguir o passo a passo para instalação.
 
-## Pós instalação Docker
+## Docker
 
 No projeito foi utlizado a ferramenta docker para a criação do banco de dados. Acesse a [documentação](https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu sistema operaciona.  onde é demonstrado o passo a passo para utilização do docker com user da máquina.
 
