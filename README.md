@@ -93,6 +93,8 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
 ## ⚛️ Mobile
 
+  Setando o localhost e ip no Reactotron
+
     Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:
     
     yarn ou yarn install.
