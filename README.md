@@ -90,6 +90,25 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
 # Mobile
 
+    Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:
+    
+    yarn ou yarn install
+
+
+   Apos estar com o seu  emulador ou celular conectado, abra o terminal na pasta Mobile_Gobarber e rode o comando:
+    
+    react-native run-android ou run-ios
+
+   Em seguida apóis finalizar a instalação, rode: 
+
+    react-native start ou yarn start no terminal
+    
+# Observação 
+
+    Aplicação testada apenas em Android
+
+    
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
