@@ -45,11 +45,11 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
   Instalando o PostBird, para utilização da base de dados de forma visual;
 
-      Você pode acessar a [documentação](https://www.electronjs.org/apps/postbird) para a instalação de acordo com o seu sistema operacional.
+      Você pode acessar a documentação:(https://www.electronjs.org/apps/postbird) para a instalação de acordo com o seu sistema operacional.
 
   Acessando o postbird, preencha os dados de acesso, host, port, username e password de acordo com a database criada via docker.
 
-      Apos isso, crie um banco com nome fastfeet
+      Feito isso, dentro do postbird, crie um banco com nome fastfeet
       
       
  ## Backend
