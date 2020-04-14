@@ -1,3 +1,5 @@
+# README EM CONSTRUÇÃO
+
 
 <h1 align="center">
   <img alt="Fastfeet" title="Fastfeet" src="./backend/img/logo.png" width="300px" />
@@ -71,7 +73,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
     Para iniciar o servidor, rode o comando yarn dev
 
-## Srvidor de email
+## Servidor de email
 
     Para rodar o servidor de email, rode o comando yarn queue
     
