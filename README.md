@@ -33,7 +33,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
 
   Criar e subir uma base de dados (Postgres):
-
+ 
       docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
       docker start fastfeet
 
