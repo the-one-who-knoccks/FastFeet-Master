@@ -80,7 +80,7 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
     Para rodar o servidor de email, rode o comando yarn queue
     
 
-#  Frontend  ⚛️ **React Js**
+## ⚛️  Frontend
 
   Instalando as dependências
 
@@ -91,7 +91,7 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
       Para inciar o servidor da aplicação, rode o comando yarn start
 
 
-# Mobile
+## ⚛️ Mobile
 
     Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:
     
