@@ -64,18 +64,19 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
    Migrations e seed
 
     Rode o comando  yarn sequelize db:migrate para criar as migrations e yarn sequelize db:seed:all para criar os seeds.
+    
+ # .env
 
-## Iniciando o servidor
+     Altere o arquivo .env.example para .env e informae os parâmetros de acordo com seu ambiente de desenvolvimento.
+
+# Iniciando o servidor
 
     Para iniciar o servidor, rode o comando yarn dev
 
-## Servidor de email
+# Servidor de email
 
     Para rodar o servidor de email, rode o comando yarn queue
     
-## .env
-
-  Alterar o arquivo .env.example para .env e informar todos parâmetros.
 
 # Frontend
 
