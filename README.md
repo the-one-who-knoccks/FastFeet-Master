@@ -50,7 +50,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
       Apos isso, crie um banco com nome fastfeet
       
       
- ## Iniciando o servidor backend
+ ## Backend
 
     git clone https://github.com/the-one-who-knoccks/FastFeet-Master.git
 
@@ -79,13 +79,13 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
   Alterar o arquivo .env.example para .env e informar todos parâmetros.
 
-# Iniciando o Frontend
+# Frontend
 
   Instalando as dependências
 
       Rode o comando yarn ou yarn install
-  
-  Servidor da aplicação
+ 
+# Iniciando o servidor da aplicação web
 
       Para inciar o servidor da aplicação, rode o comando yarn start
 
