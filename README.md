@@ -12,9 +12,9 @@
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iniciando-o-servidor-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-iniciando-o-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iphone-mobile">Mobile</a>
+  <a href="#Backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Mobile">Mobile</a>
 </p>
 
 
@@ -41,13 +41,13 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
       docker start redisfastfeet
 
 
-  Instalando o PostBird, para utilização da base de dados de forma visual;
+  Instalando o PostBird, aplicativo para visualização das informações do banco de dados.
 
       Você pode acessar a documentação:(https://www.electronjs.org/apps/postbird) para a instalação de acordo com o seu sistema operacional.
 
   Acessando o postbird, preencha os dados de acesso, host, port, username e password de acordo com a database criada via docker.
 
-      Feito isso, dentro do postbird, crie um banco com nome fastfeet
+      Feito isso, dentro do postbird, crie um banco com nome fastfeet.
       
       
  ## 💹 Backend
@@ -58,12 +58,12 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
       cd FastFeet-Master/backend
 
-  Instalando as dependências
+  Instalando as dependências.
 
       rode o comando yarn ou yarn-install para instalar as dependências.
 
 
-   Migrations e seed
+   Migrations e seed.
 
     Rode o comando  yarn sequelize db:migrate para criar as migrations e yarn sequelize db:seed:all para criar os seeds.
     
@@ -71,44 +71,44 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
      Altere o arquivo .env.example para .env e informae os parâmetros de acordo com seu ambiente de desenvolvimento.
 
- Iniciando o servidor
+ Iniciando o servidor.
 
-    Para iniciar o servidor, rode o comando yarn dev
+    Para iniciar o servidor, rode o comando yarn dev.
+    
+  Servidor de email.
 
-  Servidor de email
-
-    Para rodar o servidor de email, rode o comando yarn queue
+    Para rodar o servidor de email, rode o comando yarn queue.
     
 
 ## ⚛️  Frontend
 
-  Instalando as dependências
+  Instalando as dependências.
 
-      Rode o comando yarn ou yarn install
+      Rode o comando yarn ou yarn install.
  
- Iniciando o servidor da aplicação web
+ Iniciando o servidor da aplicação web.
 
-      Para inciar o servidor da aplicação, rode o comando yarn start
+      Para inciar o servidor da aplicação, rode o comando yarn start.
 
 
 ## ⚛️ Mobile
 
     Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:
     
-    yarn ou yarn install
+    yarn ou yarn install.
 
 
    Apos estar com o seu  emulador ou celular conectado, abra o terminal na pasta Mobile_Gobarber e rode o comando:
     
-    react-native run-android ou run-ios
+    react-native run-android ou run-ios.
 
    Em seguida apóis finalizar a instalação, rode: 
 
-    react-native start ou yarn start no terminal
+    react-native start ou yarn start no terminal.
     
 # Observação 
 
-    Aplicação testada apenas em Android
+    Aplicação testada apenas em Android.
 
     
 
