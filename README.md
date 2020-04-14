@@ -23,11 +23,13 @@
 A aplicação conciste em um sistema de transportadora fictícia chamada FastFeet. Ela é uma aplicação completa envolvendo back-end, front-end e mobile, e que faz parte do desafio de certificação do bootcamp Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
 
 
-## :whale: Docker
+## Ferramentas
 
-No projeito foi utlizado a ferramenta docker para a criação do banco de dados. Acesse a [documentação](https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu sistema operaciona.  onde é demonstrado o passo a passo para utilização do docker com user da máquina.
+:whale: Docker
 
+ No projeito foi utlizado a ferramenta docker para a criação do banco de dados. Acesse a [documentação]           (https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu sistema operaciona.  onde é demonstrado o passo a passo para utilização do docker com user da máquina.
 
+  
   Criar e subir uma base de dados (Postgres):
  
       docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
@@ -48,7 +50,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
       Feito isso, dentro do postbird, crie um banco com nome fastfeet
       
       
- ## Backend
+ ## 💹 Backend
 
     git clone https://github.com/the-one-who-knoccks/FastFeet-Master.git
 
@@ -78,7 +80,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
     Para rodar o servidor de email, rode o comando yarn queue
     
 
-# Frontend
+#  Frontend  ⚛️ **React Js**
 
   Instalando as dependências
 
