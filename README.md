@@ -22,7 +22,7 @@
 
 A aplicação conciste em um sistema de transportadora fictícia chamada FastFeet. Ela é uma aplicação completa envolvendo back-end, front-end e mobile, e que faz parte do desafio de certificação do bootcamp Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
 
-<img src="/previ/Prev01.png">
+<img src="/prev/Prev01.png">
 </br>
 
 
