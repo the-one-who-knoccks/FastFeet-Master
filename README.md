@@ -25,6 +25,12 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 <img src="/prev/Prev01.png">
 </br>
 
+<img src="/prev/Prev02.png">
+</br>
+
+<img src="/prev/Prev03.png">
+</br>
+
 
 ## Ferramentas
 
