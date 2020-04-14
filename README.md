@@ -36,7 +36,7 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
 :whale: Docker
 
-    No projeito foi utlizado a ferramenta docker para a criação do banco de dados. Acesse a [documentação]          (https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu sistema operaciona.  onde é demonstrado o passo a passo para utilização do docker com user da máquina.
+    No projeito foi utlizado a ferramenta docker para a criação do banco de dados. Acesse a documentação:       (https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu sistema operaciona.  onde é demonstrado o passo a passo para utilização do docker com user da máquina.
 
   
   Criar e subir uma base de dados (Postgres):
