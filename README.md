@@ -93,7 +93,7 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
   Instalando as dependências.
 
-      Rode o comando yarn ou yarn install.
+      Rode o comando yarn ou yarn install. 
  
  Iniciando o servidor da aplicação web.
 
