@@ -13,10 +13,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/kaiorr/gostack-fastfeet/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/gostack-fastfeet?style=social">
-  </a>
-</p>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
