@@ -65,7 +65,7 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
       rode o comando yarn ou yarn-install para instalar as dependências.
 
 
-### Migrations e seed
+   Migrations e seed
 
     Rode o comando  yarn sequelize db:migrate para criar as migrations e yarn sequelize db:seed:all para criar os seeds.
 
