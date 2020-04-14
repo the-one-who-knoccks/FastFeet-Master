@@ -16,11 +16,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/kaiorr/gostack-fastfeet/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/gostack-fastfeet?style=social">
-  </a>
-</p>
-
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iniciando-o-servidor-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -74,13 +69,6 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 
       rode o comando yarn ou yarn-install para instalar as dependências.
 
-### :key: .env
-
-  Alterar o arquivo .env.example para .env e informar todos parâmetros.
-
-  Para definir a secret corretamente, basta [acessar](https://www.md5online.org/), informar a secret abaixo e alterar no .env o hash.
-
-      APP_SECRET=bootcampgostackfastfeetkaioribeiro
 
 ### Migrations e seed
 
@@ -93,6 +81,10 @@ No projeito foi utlizado a ferramenta docker para a criação do banco de dados.
 ## Srvidor de email
 
     Para rodar o servidor de email, rode o comando yarn queue
+    
+## .env
+
+  Alterar o arquivo .env.example para .env e informar todos parâmetros.
 
 # Iniciando o Frontend
 
