@@ -48,7 +48,7 @@ A aplicação conciste em um sistema de transportadora fictícia chamada FastFee
 
   Criar e subir uma base de dados Redis:
 
-      docker run --name redisfastfeet -p 6379:6379 -d -t postgres
+      docker run --name redisfastfeet -p 6379:6379 -d -t redis:alpine
       docker start redisfastfeet
 
 
