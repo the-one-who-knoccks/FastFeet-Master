@@ -124,8 +124,3 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
     Aplicação testada apenas em Android.
 
     
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
