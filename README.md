@@ -43,13 +43,13 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
   
   Criar e subir uma base de dados (Postgres):
  
-      docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
-      docker start fastfeet
+     $ docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
+     $ docker start fastfeet
 
   Criar e subir uma base de dados Redis:
 
-      docker run --name redisfastfeet -p 6379:6379 -d -t redis:alpine
-      docker start redisfastfeet
+     $ docker run --name redisfastfeet -p 6379:6379 -d -t redis:alpine
+     $ docker start redisfastfeet
 
 
   Instalando o PostBird, aplicativo para visualização das informações do banco de dados.
@@ -63,11 +63,11 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
       
  ## 💹 Backend
 
-    git clone https://github.com/the-one-who-knoccks/FastFeet-Master.git
+    $ git clone https://github.com/the-one-who-knoccks/FastFeet-Master.git
 
   Acessando o diretório:
 
-      cd FastFeet-Master/backend
+    $ cd FastFeet-Master/backend
 
   Instalando as dependências.
 
@@ -113,11 +113,11 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 
    Apos estar com o seu  emulador ou celular conectado, abra o terminal na pasta Mobile_Gobarber e rode o comando:
     
-    react-native run-android ou run-ios.
+    $ react-native run-android ou run-ios.
 
    Em seguida apóis finalizar a instalação, rode: 
 
-    react-native start ou yarn start no terminal.
+    $ react-native start ou yarn start no terminal.
     
 # Observação 
 
