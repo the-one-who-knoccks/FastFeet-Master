@@ -37,7 +37,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 :whale: Docker
 
     No projeto foi utlizado a ferramenta docker para a criação do banco de dados. 
-    Acesse a documentação:(https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu 
+    Acesse a documentação(https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu 
     sistema operacional.
 
   
