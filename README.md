@@ -24,7 +24,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 
 <img src="/prev/Prev01.png">
 </br>
-
+  
 <img src="/prev/Prev02.png">
 </br>
 
@@ -106,7 +106,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 
   Setando o localhost e ip no Reactotron
 
-    Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:
+    Acesse a pasta mobile e navegue até a pasta src/services e no arquivo api.js, defina o url/localhost do seu         emulador. Depois vá até src/config/ReactotoronConfig e altere a parte ".configure({ host: 'ip da sua maquina aqui })"       Após isso, rode o comando abaixo para instalar as dependências:  
     
     yarn ou yarn install.
 
