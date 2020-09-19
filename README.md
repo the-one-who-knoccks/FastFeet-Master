@@ -57,7 +57,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
       Você pode acessar a documentação:(https://www.electronjs.org/apps/postbird) para a instalação de acordo com o seu sistema operacional.
 
   Acessando o postbird, preencha os dados de acesso, host, port, username e password de acordo com a database criada via docker.
-
+ 
       Feito isso, dentro do postbird, crie um banco com nome fastfeet.
       
       
