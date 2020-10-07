@@ -2,7 +2,7 @@
   <img alt="Fastfeet" title="Fastfeet" src="./backend/img/logo.png" width="300px" />
 </h1>     
    
-<p align="center">
+<p align="center"> 
   <a href="https://rocketseat.com.br">   
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
