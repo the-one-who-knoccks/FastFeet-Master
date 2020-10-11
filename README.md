@@ -16,7 +16,7 @@
   <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
   <a href="#Mobile">Mobile</a>
 </p> 
-  
+   
 
 ## :rocket: Sobre o desafio
 
