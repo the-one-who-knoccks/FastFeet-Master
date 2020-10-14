@@ -16,7 +16,7 @@
   <a href="#Frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#Mobile">Mobile</a>
 </p>   
-    
+     
 
 ## :rocket: Sobre o desafio
 
@@ -30,7 +30,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 
 <img src="/prev/Prev03.png"> 
 </br>
-
+ 
 
 ## Ferramentas  
 
