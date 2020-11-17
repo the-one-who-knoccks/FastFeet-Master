@@ -27,11 +27,11 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
   
 <img src="/prev/Prev02.png">
 </br>
-
+ 
 <img src="/prev/Prev03.png"> 
 </br>
    
-
+ 
 ## Ferramentas  
 
 :whale: Docker
@@ -61,7 +61,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
       Feito isso, dentro do postbird, crie um banco com nome fastfeet.
       
       
- ## 💹 Backend
+ ## 💹 Backend 
 
     $ git clone https://github.com/the-one-who-knoccks/FastFeet-Master.git
 
