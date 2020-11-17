@@ -26,7 +26,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
 </br>
   
 <img src="/prev/Prev02.png">
-</br>
+</br> 
  
 <img src="/prev/Prev03.png"> 
 </br>
