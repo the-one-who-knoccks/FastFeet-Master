@@ -30,7 +30,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
  
 <img src="/prev/Prev03.png"> 
 </br>
-   
+    
  
 ## Ferramentas  
 
@@ -47,7 +47,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
      $ docker start fastfeet
 
   Criar e subir uma base de dados Redis:
-
+ 
      $ docker run --name redisfastfeet -p 6379:6379 -d -t redis:alpine
      $ docker start redisfastfeet
 
