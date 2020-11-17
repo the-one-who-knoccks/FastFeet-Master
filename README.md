@@ -27,7 +27,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
   
 <img src="/prev/Prev02.png">
 </br> 
- 
+  
 <img src="/prev/Prev03.png"> 
 </br>
     
@@ -40,7 +40,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
     Acesse a documentação(https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu 
     sistema operacional.
 
-  
+   
   Criar e subir uma base de dados (Postgres):
  
      $ docker run --name fastfeet -e POSTGRES_PASSWORD=fastfeet -p 5432:5432 -d postgres
