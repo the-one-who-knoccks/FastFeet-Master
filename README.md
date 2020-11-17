@@ -17,7 +17,7 @@
   <a href="#Mobile">Mobile</a> 
 </p>      
       
-   
+    
 ## :rocket: Sobre o desafio
 
 A aplicação consiste em um sistema de uma transportadora fictícia chamada FastFeet. Ela é uma aplicação completa envolvendo back-end, front-end e mobile, e que faz parte do desafio de certificação do bootcamp Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
@@ -34,7 +34,7 @@ A aplicação consiste em um sistema de uma transportadora fictícia chamada Fas
  
 ## Ferramentas  
 
-:whale: Docker
+:whale: Docker 
 
     No projeto foi utlizado a ferramenta docker para a criação do banco de dados. 
     Acesse a documentação(https://docs.docker.com/get-docker/), para instalar a versão de acordo com o seu 
