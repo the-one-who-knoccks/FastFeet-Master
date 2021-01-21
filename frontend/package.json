@@ -9,7 +9,7 @@
     "date-fns": "^2.9.0",
     "date-fns-tz": "^1.0.9",
     "history": "^4.10.1",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "polished": "^3.4.4",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
