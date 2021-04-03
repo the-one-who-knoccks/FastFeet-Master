@@ -18,7 +18,7 @@
 </p>        
         
       
-## :rocket: Sobre o desafio
+## :rocket: Sobre o desafio 
 
 A aplicação consiste em um sistema de uma transportadora fictícia chamada FastFeet. Ela é uma aplicação completa envolvendo back-end, front-end e mobile, e que faz parte do desafio de certificação do bootcamp Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
 
